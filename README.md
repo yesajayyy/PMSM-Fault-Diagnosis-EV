@@ -1,6 +1,6 @@
 # AI-Based Fault Diagnosis and Fault-Tolerant Control of PMSM for Electric Vehicles
 
-## 📌 Project Overview
+Project Overview
 A year-long research project focused on developing an AI-driven system to detect,
 diagnose, and respond to faults in Permanent Magnet Synchronous Motors (PMSM)
 used in electric vehicle drivetrains — aimed at improving motor reliability,
@@ -15,13 +15,14 @@ safety, and operational continuity under fault conditions.
 - Implement fault-tolerant control strategies to maintain safe motor operation
   after fault detection
 
-## ⚠️ Target Fault Types
+Target Fault Types
+
 - **Electrical faults** — inter-turn short circuits, winding faults
 - **Demagnetization faults** — partial/total loss of magnet strength
   (common in EVs due to thermal stress and aging)
 - **Sensor faults** — position/speed sensor failure or drift
 
-## 🛠️ Approach
+Approach
 
 **Simulation**
 - MATLAB/Simulink for PMSM modeling and fault injection
@@ -36,7 +37,7 @@ safety, and operational continuity under fault conditions.
 - Control strategy design to maintain safe motor operation after a fault
   is detected and classified
 
-## 🗓️ Roadmap
+Roadmap
 - [ ] Literature review on PMSM faults and diagnosis methods
 - [ ] Build baseline PMSM simulation model in MATLAB/Simulink
 - [ ] Fault injection and dataset generation
@@ -44,9 +45,9 @@ safety, and operational continuity under fault conditions.
 - [ ] Fault-tolerant control design and integration
 - [ ] Testing, validation, and results documentation
 
-## 🧰 Tools
+Tools
 MATLAB · Simulink · Python (for ML/DL modeling)
 
-## 📎 Notes
+
 This repository will be updated progressively as the project develops over
 the coming months.
